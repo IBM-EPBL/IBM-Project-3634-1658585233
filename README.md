@@ -18,3 +18,7 @@ An empathy map is a visual tool used to gain insight into a user's perspective. 
 
 
 [EMPATHY MAP LINK ](https://github.com/IBM-EPBL/IBM-Project-3634-1658585233/blob/main/Ideation%20Phase/2%20Empathy%20Map%20Canvas/Empathy%20%20Map.pdf)
+
+
+
+<iframe width="725" height="453" src="https://www.tinkercad.com/embed/heyRVA2BLFK?editbtn=1" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
