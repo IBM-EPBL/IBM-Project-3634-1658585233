@@ -12,8 +12,7 @@ A pill box is a container used to organize your medication doses for a certain l
 - SHOBANA S
 - SUDHAN R
 
-# EMPATHY MAP CANVAS <img src= "https://media4.giphy.com/media/PiAjGFVGKd9vvhrxLa/giphy.gif?cid=790b76114f75066edc558f24b0446ae976ea95171e84b3f0&rid=giphy.gif&ct=s"
- width="30px">
+# EMPATHY MAP CANVAS:
 
 An empathy map is a visual tool used to gain insight into a user's perspective. Using one allows you to tap into a user's mind and gain their unique perspective. Empathy maps are great in all scenarios where you have to consider user feelings.
 
