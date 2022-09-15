@@ -2,7 +2,7 @@
 
 
 <h1 align="fill" >
- <img src="Assessmentpics1.png"/>
+ <img src="Assessmentpics1.png" width="150px"/>
 </h1>
 
 
