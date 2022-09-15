@@ -21,10 +21,10 @@ An empathy map is a visual tool used to gain insight into a user's perspective. 
 
 ## 🎖️ASSESSMENT 
 
-- SYED HASSAN K    [Task](https://github.com/IBM-EPBL/IBM-Project-3634-1658585233/tree/main/Assignment/1%20Syed%20Hassan%20K)
-- GOWSHALYA S      [Task](https://github.com/IBM-EPBL/IBM-Project-3634-1658585233/tree/main/Assignment/2%20Gowshalya%20S)
-- SHOBANA S        [Task](https://github.com/IBM-EPBL/IBM-Project-3634-1658585233/tree/main/Assignment/2%20Gowshalya%20S)
-- SUDHAN R         [Task](https://github.com/IBM-EPBL/IBM-Project-3634-1658585233/tree/main/Assignment/4%20Sudhan%20R)
+- SYED HASSAN K  [Task](https://github.com/IBM-EPBL/IBM-Project-3634-1658585233/tree/main/Assignment/1%20Syed%20Hassan%20K)
+- GOWSHALYA S    [Task](https://github.com/IBM-EPBL/IBM-Project-3634-1658585233/tree/main/Assignment/2%20Gowshalya%20S)
+- SHOBANA S      [Task](https://github.com/IBM-EPBL/IBM-Project-3634-1658585233/tree/main/Assignment/3%20Shobana%20S)
+- SUDHAN R       [Task](https://github.com/IBM-EPBL/IBM-Project-3634-1658585233/tree/main/Assignment/4%20Sudhan%20R)
 
 
 
