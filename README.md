@@ -1,10 +1,10 @@
-                                                                      #TEAM ID PNT2022TMID30329
+                                                                   TEAM ID PNT2022TMID30329
 
 <h1 align="fill" >
  <img src="coverimg.png" />
 </h1>
 
-# 📒 PROJECT DESCRIPTION
+# 📒 PROJECT DESCRIPTION 
 
 A pill box is a container used to organize your medication doses for a certain length of time. It's also called a pill container or pill case. Using a pill box is very helpful if you need to take a few different medications. It will help you avoid missing doses of your medications.
 
