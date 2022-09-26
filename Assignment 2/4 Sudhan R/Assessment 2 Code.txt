@@ -1,0 +1,15 @@
+import random
+print("Welcome To Tempertature monitoring IoT Device\n")
+temp=int(random.randint(0,100))
+humdi=int(random.randint(1,100))
+
+if temp >= 50 and temp <= 80:
+  print("Moderate Temperature")
+  print(f"Humidity Level is {humdi}%")
+
+elif temp >= 81 :
+  print("Extremely High Temperature")
+  print(f"Humidity Level is {humdi}%")
+else:
+  print("Room Temperature")
+  print(f"Humidity Level is {humdi}%")
