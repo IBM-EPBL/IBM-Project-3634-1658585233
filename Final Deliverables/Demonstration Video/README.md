@@ -1,5 +1,3 @@
 # Personal Assistance for Seniors Who Are Self-Reliant Demo Video
 
-<html>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Yep84I5BweI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</html>
+[IBM NALAIYA THIRAN DEMO VIDEO Video  ]([https://www.tinkercad.com/things/heyRVA2BLFK-light-and-fan-activiation-by-pir-sensor](https://youtu.be/Yep84I5BweI))
