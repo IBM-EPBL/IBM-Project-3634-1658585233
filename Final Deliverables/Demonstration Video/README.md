@@ -1,11 +1,3 @@
-# Getting Started with NODE.js App
+# Personal Assistance for Seniors Who Are Self-Reliant Demo Video
 
-### `npm init`
-
-
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `node index.js`
+[IBM NALAIYA THIRAN DEMO VIDEO 🔗  ](https://youtu.be/Yep84I5BweI)
